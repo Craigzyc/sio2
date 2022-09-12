@@ -1,5 +1,5 @@
 {
-  "name": "socket.io-client",
+  "name": "sio4-client",
   "version": "4.5.2",
   "description": "Realtime application framework client",
   "keywords": [
