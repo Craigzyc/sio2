@@ -71,10 +71,8 @@
     "typescript": "^4.4.2",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
-    "webpack-remove-debug": "^0.1.0",
-    "zuul": "~3.11.1",
-    "zuul-builder-webpack": "^1.2.0",
-    "zuul-ngrok": "4.0.0"
+    "webpack-remove-debug": "^0.1.0"
+
   },
   "scripts": {
     "compile": "rimraf ./build && tsc && tsc -p tsconfig.esm.json && ./postcompile.sh",
